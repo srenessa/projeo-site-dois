@@ -13,3 +13,23 @@ main{
     box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.411);
     padding: 15px;
 }
+
+h1{
+    font-size: 3em;
+    color: rgb(4, 4, 87);
+}
+
+img.lado{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(4, 4, 87);
+}
+
+a:hover{
+text-decoration: underline;
+color: rgb(60, 98, 202);
+}
