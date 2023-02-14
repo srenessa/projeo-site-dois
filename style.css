@@ -3,6 +3,16 @@
     font-size: 16px;
 }
 
+div > p{
+display: none;
+}
+
+div:hover > p{
+display: block;
+background-color: yellow;
+}
+
+
 body{
     background-color: rgb(167, 248, 221);
 }
